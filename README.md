@@ -9,7 +9,7 @@ Import plugins or modules that need to run on the client side, ie. BrowserAnimat
 ### app.server.module.ts
 Import plugins for server ie. NoopAnimationsModule (when using browseranimations)
 
-### app.server.module.ts
+### main.ts
 Bootstraps AppBrowserModule
 
 ## Start the server
