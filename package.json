@@ -35,8 +35,13 @@
     "rxjs": "^5.3.0",
     "@types/jasmine": "2.5.47",
     "@types/node": "~7.0.12",
+    "ts-loader": "^2.0.3",
+    "ts-node": "^3.0.2",
+    "tslint": "~5.0.0",
     "zone.js": "^0.8.5",
-    "webpack-node-externals": "^1.5.4"
+    "webpack-node-externals": "^1.5.4",
+    "typescript": "~2.2.2",
+    "webpack": "~2.2.0"
   },
   "devDependencies": {
     "codelyzer": "~2.1.1",
@@ -47,11 +52,6 @@
     "karma-cli": "~1.0.1",
     "karma-coverage-istanbul-reporter": "^1.0.0",
     "karma-jasmine": "~1.1.0",
-    "karma-jasmine-html-reporter": "^0.2.2",
-    "typescript": "~2.2.2",
-    "ts-loader": "^2.0.3",
-    "ts-node": "^3.0.2",
-    "tslint": "~5.0.0",
-    "webpack": "~2.2.0"
+    "karma-jasmine-html-reporter": "^0.2.2"
   }
 }
